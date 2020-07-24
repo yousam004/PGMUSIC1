@@ -5,9 +5,9 @@ const ytdl = require("ytdl-core");
 const dotenv = require("dotenv").config();
 require("./server.js");
 
-const TOKEN = "NjUwMDk5MjIyMDg2OTQyNzU5.Xv9hqQ.OmPbIPlXcyNTrW2cCWC_uxS9QP4";
+const TOKEN = "NjkwNTEyMDI2NjMxNTM2Njkw.XnSfcA.6ni5DOHc0TtwsYwlXfrFbZHhFPM";
 const PREFIX = "/";
-const GOOGLE_API_KEY = "AIzaSyBHN1Hq7VGTBhdd5CKjHIZGh692E1PZv_c";
+const GOOGLE_API_KEY = "AIzaSyA3gzEOMMf5EX1yJAhXGma8FcIHnp3VJPU";
 
 const bot = new Client({
     disableMentions: "all"
